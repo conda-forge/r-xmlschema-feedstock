@@ -11,7 +11,7 @@ source:
 
 build:
   noarch: generic
-  number: 1001
+  number: 1002
   script: R CMD INSTALL --build .
   rpaths:
     - lib/R/lib/

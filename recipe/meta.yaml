@@ -1,4 +1,4 @@
-{% set version = '0.8' %}
+{% set version = "0.8" %}
 
 package:
   name: r-xmlschema
@@ -36,10 +36,12 @@ test:
 
 about:
   home: https
-  license: GPL-2.0
+  license: GPL-2.0-only
   # license_file: LICENSE
   summary: R package to work with XML Schema
 
+  license_file:
+    - {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2
 extra:
   recipe-maintainers:
     - ocefpaf

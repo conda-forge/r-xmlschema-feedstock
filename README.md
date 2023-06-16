@@ -1,11 +1,11 @@
-About r-xmlschema
-=================
+About r-xmlschema-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xmlschema-feedstock/blob/main/LICENSE.txt)
 
 Home: https
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xmlschema-feedstock/blob/main/LICENSE.txt)
 
 Summary: R package to work with XML Schema
 
